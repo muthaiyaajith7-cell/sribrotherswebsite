@@ -214,4 +214,23 @@ export default function Home() {
 
     </div>
   );
+}export default function Home() {
+  return (
+    <div>
+      <h1>Sri Brothers Sofa</h1>
+
+      <div>
+        <img src="/sofa1.jpg" width="300" />
+        <h3>Modern Sofa</h3>
+        <p>₹12,000</p>
+      </div>
+
+      <div>
+        <img src="/sofa2.jpg" width="300" />
+        <h3>Luxury Sofa</h3>
+        <p>₹18,000</p>
+      </div>
+
+    </div>
+  )
 }
