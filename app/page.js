@@ -230,7 +230,6 @@ export default function Home() {
         <h3>Luxury Sofa</h3>
         <p>₹18,000</p>
       </div>
-
     </div>
   );
 }
