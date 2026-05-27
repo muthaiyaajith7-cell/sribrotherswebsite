@@ -1,5 +1,4 @@
 export default function Home() {
-export default function Home() {
   return (
     <main>
       <h1>Sri Brothers Sofa</h1>
